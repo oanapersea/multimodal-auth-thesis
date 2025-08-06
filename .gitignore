@@ -1,0 +1,29 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.facerec_stable/
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE/editor files
+*.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Environment variables
+.env
